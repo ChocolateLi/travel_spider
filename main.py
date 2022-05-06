@@ -7,8 +7,7 @@ import json
 
 
 if __name__ == '__main__':
-
-    start_time = time.time()
+ 
 
     # 初始化数据库
     file_name = "db_config.json"
@@ -39,6 +38,7 @@ if __name__ == '__main__':
         urls = spider.crawl_travel_url()
         print("%s有-%d-条url"%(place,len(urls)))
 
+        start_time = time.time()
 
         for url in urls:
             # 休眠一下，避免识别成爬虫

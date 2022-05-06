@@ -118,6 +118,7 @@ class Spider():
             pass
 
         # 获取文章长度
+        # 这里有问题，这里应该是去除所有空格留下来的长度，不应该计算上空格。
         try:
             text_len = str(len(travel_text))
         except Exception as e:
