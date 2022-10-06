@@ -8,6 +8,7 @@ import json
 
 if __name__ == '__main__':
  
+    travel_start_time = time.time()
 
     # 初始化数据库
     file_name = "db_config.json"
@@ -19,7 +20,7 @@ if __name__ == '__main__':
     place_json_name = "place.json"
     place_json_path = "."
     places_file = utils.find_file(place_json_name,place_json_path)
-    with open(places_file,'r') as file:
+    with open(places_file,'r',encoding='utf-8') as file:
         places = json.load(file)
 
     # 获取旅游城市列表
@@ -44,11 +45,14 @@ if __name__ == '__main__':
             # 休眠一下，避免识别成爬虫
             time.sleep(random.random() * 3)
             data = spider.get_url_detail(url)
-            spider.saveData(mysql=mysql,data=data)
+            spider.saveData(mysql,data)
 
         end_time = time.time()
 
         print("爬取%s游记时长：%d" % (place,end_time-start_time))
         print("-----------分隔符-------------------")
-    
+
+    Mysql.close()
+    travel_end_time = time.time()
+    print("爬虫工作进行的总时长为：%d" % (travel_end_time-travel_start_time))
     print("游记文本爬取成功")

@@ -1,12 +1,11 @@
 import time
-import traceback
 
 import requests
 from bs4 import BeautifulSoup
 import random
 from lxml import etree
 import re
-from MysqlUtils import Mysql
+from Utils import Utils
 
 class Spider():
     def __init__(self,region,place,place_url,place_url_page) -> None:
@@ -113,12 +112,13 @@ class Spider():
         try:
             text = html.xpath("//div[@class='ctd_main_body']/descendant::p/text()") # 这是list列表
             travel_text = "".join(text)
+            # 对文本数据做预处理
+            travel_text = Utils.clear(travel_text)
         except Exception as e:
             # traceback.print_exc()
             pass
 
         # 获取文章长度
-        # 这里有问题，这里应该是去除所有空格留下来的长度，不应该计算上空格。
         try:
             text_len = str(len(travel_text))
         except Exception as e:
@@ -153,9 +153,10 @@ class Spider():
         publish = data['publish']
         length = data['length']
         text = data['text']
-        
-        sql = "insert into travel2 (region,place,url,title,publish,length,text) values (%s,%s,%s,%s,%s,%s,%s)"
-        val = (region,place,url,title,publish,length,text)
-        
-        mysql.insert_one(sql,val)
+
+        # 满足512个字符才插入数据库，否则舍弃
+        if(int(length)>512):
+            sql = "insert into data (region,place,url,title,publish,length,text) values (%s,%s,%s,%s,%s,%s,%s)"
+            val = (region,place,url,title,publish,length,text)
+            mysql.insert_one(sql,val)
 
