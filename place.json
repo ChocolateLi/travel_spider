@@ -2,42 +2,6 @@
     
     "place_list":[
         {
-            "region" : "华南",
-            "place" : "桂林",
-            "place_url" : "https://you.ctrip.com/travels/guilin28.html",
-            "place_url_page" : "https://you.ctrip.com/travels/guilin28/t3-p{}.html"   
-        },
-        {
-            "region" : "华南",
-            "place" : "厦门",
-            "place_url" : "https://you.ctrip.com/travels/xiamen21.html",
-            "place_url_page" : "https://you.ctrip.com/travels/xiamen21/t3-p{}.html"
-        },
-        {
-            "region" : "华南",
-            "place" : "三亚",
-            "place_url" : "https://you.ctrip.com/travels/sanya61.html",
-            "place_url_page" : "https://you.ctrip.com/travels/sanya61/t3-p{}.html"
-        },
-        {
-            "region" : "华东",
-            "place" : "黄山",
-            "place_url" : "https://you.ctrip.com/travels/huangshan120061.html",
-            "place_url_page" : "https://you.ctrip.com/travels/huangshan120061/t3-p{}.html"
-        },
-        {
-            "region" : "华东",
-            "place" : "庐山",
-            "place_url" : "https://you.ctrip.com/travels/lushan20.html",
-            "place_url_page" : "https://you.ctrip.com/travels/lushan20/t3-p{}.html"
-        },
-        {
-            "region" : "华东",
-            "place" : "泰山",
-            "place_url" : "https://you.ctrip.com/travels/taishan6.html",
-            "place_url_page" : "https://you.ctrip.com/travels/taishan6/t3-p{}.html"
-        },
-        {
             "region" : "华北",
             "place" : "北京",
             "place_url" : "https://you.ctrip.com/travels/beijing1.html",
@@ -120,6 +84,42 @@
             "place" : "拉萨",
             "place_url" : "https://you.ctrip.com/travels/lhasa36.html",
             "place_url_page" : "https://you.ctrip.com/travels/lhasa36/t3-p{}.html"
+        },
+        {
+            "region" : "华南",
+            "place" : "桂林",
+            "place_url" : "https://you.ctrip.com/travels/guilin28.html",
+            "place_url_page" : "https://you.ctrip.com/travels/guilin28/t3-p{}.html"   
+        },
+        {
+            "region" : "华南",
+            "place" : "厦门",
+            "place_url" : "https://you.ctrip.com/travels/xiamen21.html",
+            "place_url_page" : "https://you.ctrip.com/travels/xiamen21/t3-p{}.html"
+        },
+        {
+            "region" : "华南",
+            "place" : "三亚",
+            "place_url" : "https://you.ctrip.com/travels/sanya61.html",
+            "place_url_page" : "https://you.ctrip.com/travels/sanya61/t3-p{}.html"
+        },
+        {
+            "region" : "华东",
+            "place" : "黄山",
+            "place_url" : "https://you.ctrip.com/travels/huangshan120061.html",
+            "place_url_page" : "https://you.ctrip.com/travels/huangshan120061/t3-p{}.html"
+        },
+        {
+            "region" : "华东",
+            "place" : "庐山",
+            "place_url" : "https://you.ctrip.com/travels/lushan20.html",
+            "place_url_page" : "https://you.ctrip.com/travels/lushan20/t3-p{}.html"
+        },
+        {
+            "region" : "华东",
+            "place" : "泰山",
+            "place_url" : "https://you.ctrip.com/travels/taishan6.html",
+            "place_url_page" : "https://you.ctrip.com/travels/taishan6/t3-p{}.html"
         }
     ]
         
