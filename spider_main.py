@@ -52,7 +52,7 @@ if __name__ == '__main__':
         print("爬取%s游记时长：%d" % (place,end_time-start_time))
         print("-----------分隔符-------------------")
 
-    Mysql.close()
+    mysql.close()
     travel_end_time = time.time()
     print("爬虫工作进行的总时长为：%d" % (travel_end_time-travel_start_time))
     print("游记文本爬取成功")

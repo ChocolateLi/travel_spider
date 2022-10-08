@@ -1,8 +1,8 @@
 {
-    "host":"124.71.44.99",
-    "user":"root",
-    "password":"chenli",
+    "host":"***.**.**.**",
+    "user":"****",
+    "password":"*****",
     "port":3306,
-    "db":"spider",
+    "db":"*****",
     "charset":"utf8mb4"
 }

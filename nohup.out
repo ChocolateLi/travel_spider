@@ -1,0 +1,233 @@
+[W 15:28:24.929 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 15:28:24.949 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[W 2022-10-07 15:28:25.193 LabApp] 'ip' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-07 15:28:25.193 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-07 15:28:25.193 LabApp] 'password' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-07 15:28:25.193 LabApp] 'port' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-07 15:28:25.193 LabApp] 'allow_remote_access' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-07 15:28:25.193 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2022-10-07 15:28:25.193 LabApp] 'notebook_dir' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2022-10-07 15:28:25.202 LabApp] JupyterLab extension loaded from /home/chenli/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2022-10-07 15:28:25.202 LabApp] JupyterLab application directory is /home/chenli/anaconda3/share/jupyter/lab
+[I 15:28:25.207 NotebookApp] notebooks 运行所在的本地路径: /home/chenli/jupyter
+[I 15:28:25.207 NotebookApp] Jupyter Notebook 6.4.8 is running at:
+[I 15:28:25.207 NotebookApp] http://0003:8888/
+[I 15:28:25.207 NotebookApp] 使用 Control-C 停止此服务器并关闭所有内核（连续操作两次便可跳过确认界面）。
+[I 15:29:34.358 NotebookApp] 302 GET / (::1) 0.450000ms
+[I 15:56:33.602 NotebookApp] Saving file at /Pytorch/README.md
+[W 16:05:45.187 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.196 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.251 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.257 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.278 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.290 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.313 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.324 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.365 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.371 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.531 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.538 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.633 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.643 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.696 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.703 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.722 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.733 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.757 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.768 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.809 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.815 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.973 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:05:45.980 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 16:05:52.710 NotebookApp] Writing notebook-signing key to /home/chenli/.local/share/jupyter/notebook_secret
+[W 16:05:52.711 NotebookApp] Notebook Pytorch/Longformer/Longformer_情感分类.ipynb is not trusted
+[I 16:05:53.616 NotebookApp] Kernel started: 5ce64b45-2e0e-4ed2-96c5-4c078d02feee, name: pytorch
+[W 16:06:24.013 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.023 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.074 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.080 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.099 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.110 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.132 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.143 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.183 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.189 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.342 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.349 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.440 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.449 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.501 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.508 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.527 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.538 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.562 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.573 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.615 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.621 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.782 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:24.789 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:06:25.157 NotebookApp] Notebook Pytorch/Longformer/Longformer_test.ipynb is not trusted
+[I 16:06:25.326 NotebookApp] Kernel started: 2d852ade-c40a-46d0-ad30-eba6809c2582, name: pytorch
+[I 16:07:06.881 NotebookApp] Starting buffering for 2d852ade-c40a-46d0-ad30-eba6809c2582:682421b5d6d84c92917a59d9e81f0eb3
+[I 16:07:53.618 NotebookApp] Saving file at /Pytorch/Longformer/Longformer_情感分类.ipynb
+[W 16:07:53.618 NotebookApp] Notebook Pytorch/Longformer/Longformer_情感分类.ipynb is not trusted
+[I 16:13:50.292 NotebookApp] Saving file at /Pytorch/README.md
+[I 16:13:56.635 NotebookApp] Starting buffering for 5ce64b45-2e0e-4ed2-96c5-4c078d02feee:60589028041c4323910cccfc201a5e97
+[I 16:21:29.734 NotebookApp] Creating new notebook in /Pytorch
+[W 16:21:29.870 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:29.879 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:29.933 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:29.940 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:29.959 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:29.970 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:29.994 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.005 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.046 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.051 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.212 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.219 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.316 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.325 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.379 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.385 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.406 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.417 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.441 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.452 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.494 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.500 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.660 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 16:21:30.669 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[I 16:21:31.096 NotebookApp] Kernel started: 34b20f15-6509-4d72-be2d-28c367d23f57, name: pytorch
+[I 16:21:33.136 NotebookApp] Starting buffering for 34b20f15-6509-4d72-be2d-28c367d23f57:eabbb445db4140ec85dcbe102cc2c17b
+[I 16:21:40.098 NotebookApp] Kernel shutdown: 34b20f15-6509-4d72-be2d-28c367d23f57
+[W 16:21:40.301 NotebookApp] delete /Pytorch/未命名.ipynb
+[I 16:21:44.271 NotebookApp] Creating new file in /Pytorch
+[W 16:21:58.180 NotebookApp] delete /Pytorch/untitled.txt
+[W 16:21:58.182 NotebookApp] delete /Pytorch/untitled1.txt
+[I 16:22:03.072 NotebookApp] Creating new directory in /Pytorch
+[W 20:03:40.863 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:40.873 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:40.928 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:40.934 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:40.955 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:40.966 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:40.990 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.001 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.042 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.048 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.207 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.215 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.309 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.318 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.372 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.378 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.398 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.409 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.433 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.445 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.487 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.494 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.653 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:41.660 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:03:42.006 NotebookApp] Notebook pytorch_case_study/chinese_version/如何微调Transformer预训练模型.ipynb is not trusted
+[I 20:03:52.632 NotebookApp] Kernel started: 83e50030-24e5-4358-a3a7-436e65a7386b, name: pytorch
+[I 20:05:42.661 NotebookApp] Saving file at /pytorch_case_study/chinese_version/如何微调Transformer预训练模型.ipynb
+[W 20:05:42.662 NotebookApp] Notebook pytorch_case_study/chinese_version/如何微调Transformer预训练模型.ipynb is not trusted
+[I 20:23:17.308 NotebookApp] Starting buffering for 83e50030-24e5-4358-a3a7-436e65a7386b:82a56006bdaf4c679248de3ec0ce6447
+[I 20:23:26.841 NotebookApp] Copying pytorch_case_study/chinese_version/如何微调Transformer预训练模型.ipynb to /pytorch_case_study/chinese_version
+[W 20:23:26.844 NotebookApp] Notebook pytorch_case_study/chinese_version/如何微调Transformer预训练模型.ipynb is not trusted
+[W 20:23:26.846 NotebookApp] Notebook pytorch_case_study/chinese_version/如何微调Transformer预训练模型-Copy1.ipynb is not trusted
+[W 20:24:02.509 NotebookApp] 500 PATCH /api/contents/pytorch_case_study/chinese_version/%E5%A6%82%E4%BD%95%E5%BE%AE%E8%B0%83Transformer%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B-Copy1.ipynb (::1): Unknown error renaming file: pytorch_case_study/chinese_version/如何微调Transformer预训练模型-Copy1.ipynb [Errno 2] No such file or directory: '/home/chenli/jupyter/Python/HuggingFaceStudy/如何微调Transformer预训练模型-Copy1.ipynb'
+[W 20:24:02.509 NotebookApp] Unknown error renaming file: pytorch_case_study/chinese_version/如何微调Transformer预训练模型-Copy1.ipynb [Errno 2] No such file or directory: '/home/chenli/jupyter/Python/HuggingFaceStudy/如何微调Transformer预训练模型-Copy1.ipynb'
+[E 20:24:02.510 NotebookApp] {
+      "Host": "localhost:8887",
+      "Connection": "keep-alive",
+      "Content-Length": "86",
+      "Sec-Ch-Ua": "\" Not A;Brand\";v=\"99\", \"Chromium\";v=\"100\", \"Google Chrome\";v=\"100\"",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36",
+      "Content-Type": "application/json",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|aa0b43e0|e2c086ced76694acc9e9acf6f84d947b|1664088443",
+      "Sec-Ch-Ua-Platform": "\"Windows\"",
+      "Origin": "http://localhost:8887",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Dest": "empty",
+      "Referer": "http://localhost:8887/tree/pytorch_case_study/chinese_version",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "zh-CN,zh;q=0.9",
+      "Cookie": "Idea-e2aff42=cbfda366-1837-497e-98e9-087cd0aecb07; username-localhost-9999=\"2|1:0|10:1663643231|23:username-localhost-9999|44:N2M1ZjhkMmM5NGZmNDAyZTgwNWY1ZDBlMjQ0NDU4YWM=|55062645d0ab80a43c5e28b357977e26966562bb57f780e46acc089414aa2d49\"; _xsrf=2|aa0b43e0|e2c086ced76694acc9e9acf6f84d947b|1664088443; username-localhost-8887=\"2|1:0|10:1665125398|23:username-localhost-8887|44:MDQzOGI3NTUzNjllNGZjNWFkZmRkMjBjOGZhNzkzZWU=|1cedaf7f749e544662ac79c131f40cd51ab9bd459654751daff2c8fae3837eee\""
+    }
+[E 20:24:02.510 NotebookApp] 500 PATCH /api/contents/pytorch_case_study/chinese_version/%E5%A6%82%E4%BD%95%E5%BE%AE%E8%B0%83Transformer%E9%A2%84%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B-Copy1.ipynb (::1) 1.480000ms referer=http://localhost:8887/tree/pytorch_case_study/chinese_version
+[W 20:24:18.267 NotebookApp] delete /pytorch_case_study/chinese_version/如何微调Transformer预训练模型-Copy1.ipynb
+[W 20:25:30.459 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.468 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.522 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.528 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.547 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.558 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.582 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.593 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.634 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.640 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.798 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.806 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.898 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.908 NotebookApp] Config option `template_path` not recognized by `ExporterCollapsibleHeadings`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.961 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.967 NotebookApp] Config option `template_path` not recognized by `TocExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.986 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:30.997 NotebookApp] Config option `template_path` not recognized by `LenvsHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:31.020 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:31.031 NotebookApp] Config option `template_path` not recognized by `LenvsTocHTMLExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:31.072 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:31.078 NotebookApp] Config option `template_path` not recognized by `LenvsLatexExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:31.239 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:31.247 NotebookApp] Config option `template_path` not recognized by `LenvsSlidesExporter`.  Did you mean one of: `extra_template_paths, template_name, template_paths`?
+[W 20:25:31.579 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 20:25:31.968 NotebookApp] Kernel started: 5c948a63-c225-4e57-aba0-17e2523a34a9, name: pytorch
+[I 20:27:32.631 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 20:27:32.631 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 20:31:32.030 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 20:31:32.030 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 20:33:32.641 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 20:33:32.641 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 20:35:32.642 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 20:35:32.642 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 20:37:32.650 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 20:37:32.650 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 20:55:32.643 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 20:55:32.643 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 20:57:32.017 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 20:57:32.017 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 21:01:32.643 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 21:01:32.643 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 21:03:32.017 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 21:03:32.018 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 21:15:32.032 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 21:15:32.032 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 21:17:32.198 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 21:17:32.199 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 21:19:32.644 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 21:19:32.645 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 21:21:32.641 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 21:21:32.642 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 21:23:32.020 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 21:23:32.020 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 21:27:32.643 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 21:27:32.643 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 21:29:32.652 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 21:29:32.652 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 21:31:32.023 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 21:31:32.023 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 21:33:32.642 NotebookApp] Saving file at /Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb
+[W 21:33:32.642 NotebookApp] Notebook Pytorch/HuggingFaceStudy/如何微调Transformer预训练模型.ipynb is not trusted
+[I 16:15:49.690 NotebookApp] Starting buffering for 5c948a63-c225-4e57-aba0-17e2523a34a9:c656b32bb8b84d058c9f0a464e218e13
+[I 16:15:59.523 NotebookApp] Kernel shutdown: 5c948a63-c225-4e57-aba0-17e2523a34a9
+[I 16:16:10.488 NotebookApp] Creating new directory in /Pytorch/SentimentAnalysis
+[I 16:16:23.551 NotebookApp] Creating new directory in /Pytorch/SentimentAnalysis
+[I 16:17:04.759 NotebookApp] Creating new directory in /Pytorch/SentimentAnalysis
+[I 16:17:27.858 NotebookApp] 302 GET / (::1) 0.510000ms
